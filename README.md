@@ -1,5 +1,6 @@
 # Memoir using Django
 In this project python and django is used to create a personal blog/memoir <br/>
+https://ria992911.pythonanywhere.com/
 - The features including adding a post,saving one, editing one as well as deletion. Only the maker or the user can commit these changes to the blog. It is not available to general public.<br/>
 - This is what it looks like to me<br/>
 ![Blog As seen by Me](../master/screenshots/Blog%20pic.png) <br/>
